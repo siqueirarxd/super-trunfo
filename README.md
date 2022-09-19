@@ -1,0 +1,4 @@
+# Super Trunfo - Dia 8
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/imersao-dev/pen/GREGPNb](https://codepen.io/imersao-dev/pen/GREGPNb).
+
